@@ -31,7 +31,6 @@ Hardware Connections:
 Google - connection of LDR with NodeMCu/Arduino
 
 Libraries to be downloaded & installed for Arduino code:
-
 1.Blynk.h
 2.ESP8266WiFi.h
 
